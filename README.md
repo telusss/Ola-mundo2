@@ -1,4 +1,6 @@
 # Olá Mundo!
  Primeiro repositorio versionado
 
-rEPOSITORIO CRIADO DURANTE UMA AULA AU VIVO
+Respositorio criado durante uma aula ao vivo!
+
+Essa linha eu adicionei diretamente no site!
